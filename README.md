@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**bernalherndz/bernalherndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bernal, I'm from Costa Rica and I'm a .NET Developer.
 
-Here are some ideas to get you started:
+* Currently working for [BCCR](https://www.bccr.fi.cr) as a .NET Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Using .NET since 2015
+* .NET Framework, .NET Core, SQL Server
+* Some ReactJS coding
+* Critical thinking, decision-making and problem solving skills
+
+## Contact
+
+Find me at [twitter](https://twitter.com/bernalherndz) or [linkedin](https://www.linkedin.com/in/bernalherndz/)
